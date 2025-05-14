@@ -16,6 +16,7 @@ function initApp() {
   }
 }
 
+
 function startCommentsApp() {
   document.getElementById("app").innerHTML = `
     <h3>Лента комментариев</h3>
